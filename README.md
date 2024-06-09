@@ -1,2 +1,2 @@
-# PCA-grouping-suicides
+# PCA-clustering-suicides
 In this project, me and my university buddy dive deep into the exploration of suicide rates across Europe and the factors influencing them, using data sourced from Eurostat. Through the power of PCA, we unravel complex patterns and relationships within the data, shedding light on the underlying structures and trends. Leveraging clustering algorithms, we further dissect the dataset to identify distinct groups and patterns among European countries.
